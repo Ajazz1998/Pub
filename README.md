@@ -1,7 +1,7 @@
 
 # Pub
 
-Personal portfolio built using the good old basics. Made with Vanilla JS, CSS and HTML.
+Personal Pub built using the good old basics. Made with Vanilla JS, CSS and HTML.
 
 ## Getting Started
 
