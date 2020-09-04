@@ -34,3 +34,8 @@ Enjoy :)
 * JavaScript
 
 
+## Library used
+
+* jquery.waypoints.min.js
+* Jquery.js
+
