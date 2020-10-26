@@ -1,3 +1,6 @@
+
+       /*------  scroll   ---------*/
+
 $(document).ready(function(){
     $(".category_item").click(function(){
         var catagory = $(this).attr("id");
@@ -31,7 +34,9 @@ $(document).ready(function(){
         } 
       });
 
-       /* Animate scroll */
+
+       /*------   Animate   ---------*/
+
         
          $('.js--wp-1').waypoint(function(){
              $('.js--wp-1').addClass('animated fadeIn'); 
@@ -87,6 +92,8 @@ $(document).ready(function(){
              offset: '50%'
          });
 });
+
+       /*------   Opening and Closing Navbar   ---------*/
 
 document.getElementById("navicon").addEventListener("click", () => {
 
